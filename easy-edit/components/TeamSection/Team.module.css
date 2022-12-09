@@ -1,0 +1,228 @@
+.container h1 {
+    position: absolute;
+    width: 334px;
+    height: 92px;
+    left: 470px;
+    top: 80px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 50px;
+    line-height: 94px;
+    text-align: center;
+    color: #000000;
+}
+
+.container img {
+    position: absolute;
+    width: 86px;
+    height: 86px;
+    left: 18px;
+    top: 29px;
+}
+
+.scroll {
+    position: absolute;
+    width: 540px;
+    height: 700px;
+    left: 424px;
+    top: 300px;
+    overflow-x: scroll;
+}
+
+.scrollcontainer {
+    position: absolute;
+    width: 3656.47px;
+    height: 628.16px;
+}
+
+.first {
+    position: absolute;
+    width: 540.3px;
+    height: 625.17px;
+}
+
+.first img {
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    left: 20px;
+    top: 0px;
+    filter: drop-shadow(0px 4px 4px #000000);
+}
+
+.first h5 {
+    position: absolute;
+    width: 540.3px;
+    height: 30.58px;
+    left: 30px;
+    top: 380px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 32px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+
+.first p {
+    position: absolute;
+    width: 507.68px;
+    height: 30.58px;
+    left: 160px;
+    top: 450px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 32px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #495057;
+}
+
+.second {
+    position: absolute;
+    width: 508px;
+    height: 625.75px;
+    left: 740.3px;
+    top: 0px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.second img {
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    left: 995px;
+    top: 0px;
+    filter: drop-shadow(0px 4px 4px #000000);
+}
+
+.second h5 {
+    position: absolute;
+    width: 440.4px;
+    height: 30.58px;
+    left: 980px;
+    top: 370px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 32px;
+    text-align: center;
+    color: #000000;
+}
+
+.second p {
+    position: absolute;
+    width: 507.68px;
+    height: 30.58px;
+    left: 940px;
+    top: 450px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 32px;
+    text-align: center;
+    color: #495057;
+}
+
+.third {
+    position: absolute;
+    width: 719px;
+    height: 627.78px;
+    left: 1348.3px;
+    top: 0px;
+}
+
+.third img {
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    left: 2069px;
+    top: 0px;
+    filter: drop-shadow(0px 4px 4px #000000);
+}
+
+.third h5 {
+    position: absolute;
+    width: 719px;
+    height: 31.26px;
+    left: 1910px;
+    top: 380px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 32px;
+    text-align: center;
+    color: #000000;
+}
+
+.third p {
+    position: absolute;
+    width: 518.93px;
+    height: 31.26px;
+    left: 2020px;
+    top: 450px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 32px;
+    text-align: center;
+    color: #495057;
+}
+
+.fourth {
+    position: absolute;
+    width: 508.47px;
+    height: 628.16px;
+    left: 2167.3px;
+    top: 0px;
+}
+
+.fourth img {
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    left: 3156px;
+    top: 0px;
+    filter: drop-shadow(0px 4px 4px #000000);
+}
+
+.fourth h5 {
+    position: absolute;
+    width: 375.2px;
+    height: 30.75px;
+    left: 3170px;
+    top: 380px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 32px;
+    text-align: center;
+    color: #000000;
+}
+
+.fourth p {
+    position: absolute;
+    width: 508.47px;
+    height: 30.75px;
+    left: 3100px;
+    top: 450px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 32px;
+    text-align: center;
+    color: #495057;
+}

@@ -1,0 +1,133 @@
+.container h1 {
+    position: absolute;
+    width: 453px;
+    height: 94px;
+    left: 470px;
+    top: 80px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 50px;
+    line-height: 94px;
+    color: #000000;
+}
+
+.container img {
+    position: absolute;
+    width: 86px;
+    height: 86px;
+    left: 18px;
+    top: 29px;
+}
+
+.first {
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 130px;
+    top: 250px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.5));
+}
+
+.second {
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 390px;
+    top: 250px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.5));
+}
+
+.third {
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 650px;
+    top: 250px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.5));
+}
+
+.fourth {
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 920px;
+    top: 250px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.5));
+}
+
+.fifth {
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 130px;
+    top: 524px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.5));
+}
+
+.sixth {
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 390px;
+    top: 524px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.5));
+}
+
+.seventh {
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 650px;
+    top: 524px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.5));
+}
+
+.eight {
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 920px;
+    top: 524px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.5));
+}
+
+.first img {
+    width: 200px;
+    height: 200px;
+}
+
+.second img {
+    width: 200px;
+    height: 200px;
+}
+
+.third img {
+    width: 200px;
+    height: 200px;
+}
+
+.fourth img {
+    width: 200px;
+    height: 200px;
+}
+
+.fifth img {
+    width: 200px;
+    height: 200px;
+}
+
+.sixth img {
+    width: 200px;
+    height: 200px;
+}
+
+.seventh img {
+    width: 200px;
+    height: 200px;
+}
+
+.eight img {
+    width: 200px;
+    height: 200px;
+}

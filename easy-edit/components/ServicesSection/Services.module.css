@@ -1,0 +1,421 @@
+.container h1 {
+    position: absolute;
+    width: 334px;
+    height: 92px;
+    left: 470px;
+    top: 80px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 50px;
+    line-height: 94px;
+    text-align: center;
+    color: #000000;
+}
+
+.container img {
+    position: absolute;
+    width: 86px;
+    height: 86px;
+    left: 18px;
+    top: 29px;
+}
+
+.note {
+    position: absolute;
+    width: 952px;
+    height: 13px;
+    left: 160px;
+    top: 188px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 26px;
+    text-align: center;
+    color: #495057;
+}
+
+.name label{
+    position: absolute;
+    width: 61px;
+    height: 26px;
+    left:200px;
+    top: 300px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    text-align: center;
+    color: #191b1e;
+}
+
+.name input {
+    position: absolute;
+    width: 320px;
+    height: 24px;
+    left: 276px;
+    top: 300px;
+}
+
+.email label {
+    position: absolute;
+    width: 58px;
+    height: 26px;
+    left: 680px;
+    top: 300px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    text-align: center;
+    color: #191b1e;
+}
+
+.email input {
+    position: absolute;
+    width: 320px;
+    height: 24px;
+    left: 756px;
+    top: 300px;
+}
+
+.place label {
+    position: absolute;
+    width: 126px;
+    height: 26px;
+    left: 196px;
+    top: 400px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    text-align: center;
+    color: #191b1e;
+}
+
+.place input {
+    position: absolute;
+    width: 260px;
+    height: 24px;
+    left: 335px;
+    top: 400px;
+}
+
+.number label {
+    position: absolute;
+    width: 134px;
+    height: 26px;
+    left: 676px;
+    top: 400px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    text-align: center;
+    color: #191b1e;
+}
+
+.number input {
+    position: absolute;
+    width: 250px;
+    height: 24px;
+    left: 824px;
+    top: 400px;
+}
+
+.calltime label{
+    position: absolute;
+    width: 157px;
+    height: 26px;
+    left: 201px;
+    top: 475px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    text-align: center;
+    color: #191b1e;
+}
+
+.morning input{
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    left: 196px;
+    top: 510px;
+}
+
+.morning label {
+    position: absolute;
+    width: 68px;
+    height: 26px;
+    left: 230px;
+    top: 511px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    text-align: center;
+    color: #191b1e;
+}
+
+.afternoon input {
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    left: 335px;
+    top: 510px;
+}
+
+.afternoon label {
+    position: absolute;
+    width: 81px;
+    height: 26px;
+    left: 370px;
+    top: 511px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    text-align: center;
+    color: #191b1e;
+}
+
+.evening input {
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    left: 487px;
+    top: 510px;
+}
+
+.evening label {
+    position: absolute;
+    width: 64px;
+    height: 26px;
+    left: 521px;
+    top: 511px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    text-align: center;
+    color: #191b1e;
+}
+
+.language label {
+    position: absolute;
+    width: 161px;
+    height: 26px;
+    left: 740px;
+    top: 469px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    text-align: center;
+    color: #191b1e;
+}
+
+.english input {
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    left: 737px;
+    top: 510px;
+}
+
+.english label {
+    position: absolute;
+    width: 59px;
+    height: 26px;
+    left: 772px;
+    top: 511px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    text-align: center;
+    color: #191b1e;
+}
+
+.tagalog input {
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    left: 867px;
+    top: 510px;
+}
+
+.tagalog label {
+    position: absolute;
+    width: 65px;
+    height: 26px;
+    left: 902px;
+    top: 511px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    text-align: center;
+    color: #191b1e;
+}
+
+.other input {
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    left: 1003px;
+    top: 510px;
+}
+
+.other label {
+    position: absolute;
+    width: 47px;
+    height: 26px;
+    left: 1038px;
+    top: 511px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    text-align: center;
+    color: #191b1e;
+}
+
+.name hr {
+    position: absolute;
+    width: 400px;
+    height: 0px;
+    left: 200px;
+    top: 326px;
+    border: 2px solid #555454;
+}
+
+.email hr {
+    position: absolute;
+    width: 400px;
+    height: 0px;
+    left: 680px;
+    top: 326px;
+    border: 2px solid #555454;
+}
+
+.place hr {
+    position: absolute;
+    width: 400px;
+    left: 200px;
+    top: 426px;
+    border: 2px solid #555454;
+}
+
+.number hr {
+    position: absolute;
+    width: 400px;
+    height: 0px;
+    left: 680px;
+    top: 426px;
+    border: 2px solid #555454;
+}
+
+.message label{
+    position: absolute;
+    width: 207px;
+    height: 26px;
+    left: 220px;
+    top: 587px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 26px;
+    text-align: center;
+    color: #495057;
+}
+
+.message hr {
+    position: absolute;
+    width: 1000px;
+    left: 140px;
+    top: 663px;
+    border: 2px solid #555454;
+}
+
+.submission label {
+    position: absolute;
+    width: 150px;
+    height: 50px;
+    left: 680px;
+    top: 720px;
+    padding-top: 12px;
+    padding-left: 10px;
+    background-color: #FF8011;
+    color: #FFFFFF;
+}
+
+.submission input {
+    position: absolute;
+    width: 250px;
+    height: 50px;
+    left: -240px;
+    background: #D9D9D9;
+    padding-top: 14px;
+    color: #000000;
+    top: -0.2px;
+    padding-left: 36px;
+}
+
+.subnote {
+    position: absolute;
+    width: 81px;
+    height: 21px;
+    left: 440px;
+    top: 760px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    color: #495057;
+}
+
+.subnote1 {
+    position: absolute;
+    width: 210px;
+    height: 21px;
+    left: 436px;
+    top: 780px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    color: #495057;
+}
+
+.submit button {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    left: 540px;
+    top: 900px;
+    background: #FF8011;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.2);
+    border-radius: 50px;
+    border: none;
+}

@@ -1,0 +1,151 @@
+.container h1 {
+    position: absolute;
+    width: 213px;
+    height: 51px;
+    left: 200px;
+    top: 120px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 26px;
+    line-height: 51px;
+    color: #000000;
+}
+
+.container img {
+    position: absolute;
+    width: 86px;
+    height: 86px;
+    left: 18px;
+    top: 29px;
+}
+
+.landline h3 {
+    position: absolute;
+    width: 121px;
+    height: 44px;
+    left: 200px;
+    top: 170px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 44px;
+    color: #495057;
+    text-decoration: underline;
+}
+
+.llfirst {
+    position: absolute;
+    width: 246px;
+    height: 44px;
+    left: 200px;
+    top: 205px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 44px;
+    color: #495057;
+}
+
+.llsecond {
+    position: absolute;
+    width: 246px;
+    height: 44px;
+    left: 200px;
+    top: 240px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 44px;
+    color: #495057;
+}
+
+.mobile h3 {
+    position: absolute;
+    width: 99px;
+    height: 44px;
+    left: 200px;
+    top: 285px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 44px;
+    color: #495057;
+    text-decoration: underline;
+}
+
+.mfirst {
+    position: absolute;
+    width: 310px;
+    height: 44px;
+    left: 200px;
+    top: 320px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 44px;
+    color: #495057;
+}
+
+.msecond {
+    position: absolute;
+    width: 366px;
+    height: 44px;
+    left: 200px;
+    top: 355px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 44px;
+    color: #495057;
+}
+
+.email h3 {
+    position: absolute;
+    width: 96px;
+    height: 51px;
+    left: 200px;
+    top: 400px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 51px;
+    color: #495057;
+    text-decoration: underline;
+}
+
+.email p {
+    position: absolute;
+    width: 425px;
+    height: 44px;
+    left: 200px;
+    top: 440px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 44px;
+    color: #495057;
+}
+
+.teampic {
+    position: absolute;
+    width: 600px;
+    height: 529px;
+    left: 600px;
+    top: 120px;
+    opacity: 0.5;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.5));
+}
+
+.teampic img {
+    width: 500px;
+    height: 400px;
+}
