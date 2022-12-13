@@ -14,7 +14,7 @@ export default function CompanyInfo() {
                 <p>Editors</p>
             </div>
             <div className={styles.works}>
-                <img src="vector.png" alt="works logo" />
+                <img src="works.png" alt="works logo" />
                 <h2>∞</h2>
                 <p>Works</p>
             </div>
